@@ -11,7 +11,7 @@
     *Descomprime todos los ficheros .gz (no .tar.gz) en el directorio y subdirectorios*
   - **gzip-r**       
     *Comprime todos los ficheros (no .gz) en el directorio y subdirectorios*
-  - **desempaqueta** 
+  - **desempaqueta**  
     *Extrae el contenido del fichero .tar.gz pasado como parametro o todos los que encuentre en el direcotrio actual*
   - **empaqueta**    
     *Comprime el directorio que se le pasa como parametro o, en su defecto, los subdirectorios del directrorio actual*
