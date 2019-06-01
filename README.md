@@ -1,7 +1,8 @@
 # CompresionBash
 ## Scripts de compresion en bash
-###Scripts Bash:
-  - **unzip2-r**     *Descomprime todos los ficheros .bz2 en el directorio y subdirecotrios*
+**Scripts Bash:**
+  - **unzip2-r**     
+    :*Descomprime todos los ficheros .bz2 en el directorio y subdirecotrios*
   - **unzip-r**      *Descomprime todos los ficheros .zip en el directorio y subdirectorios*
   - **unrar-r**      *Descomprime todos los ficheros .rar en el directorio y subdirectorios*
   - **gunzip-r**     *Descomprime todos los ficheros .gz (no .tar.gz) en el directorio y subdirectorios*
