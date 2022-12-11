@@ -1,0 +1,20 @@
+#! /bin/bash
+# -*- ENCODING: UTF-8 -*-
+
+# file:     unzip-r
+# autor:    smcicoss [simon@cicoss.net]
+
+# Descomprime todos los ficheros .zip 
+#   que encuentre en el directorio y sus subdirectorios
+
+dir=$(pwd)
+echo
+echo "ATENCION: va a descomprimir todos los archivos .zip"
+echo -e "que encuentre en el arbol por debajo de \e[0;32m$dir\e[0m"
+echo -en "¿quiere continuar?(s/n)"
+read r
+if [ "$r" == "s" ] || [ "$r" == "S" ]; then
+    echo "Descomprimiendo"
+    find . -iname "*.zip" -type f -exec unzip -X {} -d {}- \;
+    echo "Echo"
+fi

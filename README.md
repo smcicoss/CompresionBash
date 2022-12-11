@@ -1,3 +1,4 @@
+<<<<<<< ours
 # CompresionBash
 ## Scripts de compresion en bash
 **Scripts Bash:**
@@ -17,3 +18,8 @@
     *Comprime el directorio que se le pasa como parametro o, en su defecto, los subdirectorios del directrorio actual*
   - **indextar**     
     *Genera un indice del contenido de un archivo .tar o .tar.gz asignandole el mismo_nombre.INDEX*
+=======
+# Proyecto: __*'Compresion'*__
+
+>*mié 07 dic 2022 10:19:09 CET*
+>>>>>>> theirs
