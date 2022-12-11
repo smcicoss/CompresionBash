@@ -1,4 +1,3 @@
-<<<<<<< ours
 # CompresionBash
 ## Scripts de compresion en bash
 **Scripts Bash:**
